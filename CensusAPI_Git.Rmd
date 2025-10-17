@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r lib}
 
 # setwd() function sets the working directory that you identify for you
-setwd("C:/Users/niahv/Documents/MSU GIS/Geovisualization/exercise4/Git/CensusAPI_Git/")
+setwd("C:/XXX/")
 
 # Libraries
 # Libraries are essentially the software packages that provide the functions 
